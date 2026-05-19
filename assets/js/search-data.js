@@ -39,6 +39,11 @@ ninja.data = [{
           description: "Multi-source analysis of 271K property sales — price trends, school &amp; waterfront premiums, and XGBoost hedonic pricing model",
           section: "Projects",handler: () => {
               window.location.href = "/projects/housing_analytics/";
+            },},{id: "projects-retail-operations-dashboard-power-bi",
+          title: 'Retail Operations Dashboard (Power BI)',
+          description: "End-to-end Power BI analytics for a fictional specialty retail chain — semantic model design, 18 custom DAX measures, and two interactive dashboards covering executive KPIs and labor efficiency",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/retail_dashboard/";
             },},{
         id: 'social-cv',
         title: 'CV',
