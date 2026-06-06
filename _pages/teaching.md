@@ -2,11 +2,23 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
-nav: false
+description: Teaching, tutoring, and mentoring in statistics and quantitative methods.
+nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Graduate Student Instructor, Statistics
+**University of Michigan** · Aug 2022 – May 2024
 
-Organize your courses by years, topics, or universities, however you like!
+- Taught 300+ students across 5 semesters on statistical theory using R and Python.
+- Led weekly lab discussions, developed instructional slides, designed homework problems, held office hours, and graded assignments.
+
+## Teaching Assistant
+**The Coding School** · Jul 2023 – Aug 2023
+
+- Answered questions and facilitated small-group discussions for high school students in a college-level Intro to R course.
+
+## Math Tutor
+**Mountain Empire Community College** · Mar 2019 – Apr 2020
+
+- Provided 1-on-1 tutoring for entry-level math classes (Algebra, Calculus).
