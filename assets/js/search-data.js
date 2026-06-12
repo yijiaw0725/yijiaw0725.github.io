@@ -41,7 +41,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-seattle-king-county-housing-analytics",
+          section: "News",},{id: "projects-e-commerce-customer-segmentation-sql",
+          title: 'E-commerce Customer Segmentation (SQL)',
+          description: "RFM segmentation of 93K customers across 99K real orders — Python ETL into SQLite, SQL window-function scoring, and a clear answer to where the revenue sits",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ecommerce_rfm/";
+            },},{id: "projects-seattle-king-county-housing-analytics",
           title: 'Seattle / King County Housing Analytics',
           description: "Multi-source analysis of 271K property sales — price trends, school &amp; waterfront premiums, and XGBoost hedonic pricing model",
           section: "Projects",handler: () => {
