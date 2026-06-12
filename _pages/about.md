@@ -107,5 +107,5 @@ I received my Master’s degree in Applied Statistics from the University of Mic
 In my free time, I find fulfillment in creative writing and literary analysis, where I can immerse myself in diverse perspectives and experience life through the eyes of different characters. This curiosity also extends to travel and photography, where I enjoy discovering new scenery and capturing the world through my lens. I also love strategic board games that challenge the logic and psychology behind every move.
 
 
-I am always happy to connect with fellow data enthusiasts—whether to discuss analytics, literature, or potential collaborations. Feel free to reach out at `wangyijia0725 at gmail dot com`.
+I am always happy to connect with fellow data enthusiasts—whether to discuss analytics, literature, or potential collaborations. Feel free to reach out at `yijiaw0725 at gmail dot com`.
 
