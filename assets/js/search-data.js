@@ -41,7 +41,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-e-commerce-customer-segmentation-sql",
+          section: "News",},{id: "projects-reproducing-a-published-air-quality-model",
+          title: 'Reproducing a Published Air-Quality Model',
+          description: "A reproducibility audit of a peer-reviewed benzene-estimation study — rebuilding its results from the data and methods alone to see what holds up",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/air_quality_reproducibility/";
+            },},{id: "projects-e-commerce-customer-segmentation-sql",
           title: 'E-commerce Customer Segmentation (SQL)',
           description: "RFM segmentation of 93K customers across 99K real orders — Python ETL into SQLite, SQL window-function scoring, and a clear answer to where the revenue sits",
           section: "Projects",handler: () => {
