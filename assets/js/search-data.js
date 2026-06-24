@@ -61,6 +61,11 @@ ninja.data = [{
           description: "End-to-end Power BI analytics for a fictional specialty retail chain — semantic model design, 18 custom DAX measures, and two interactive dashboards covering executive KPIs and labor efficiency",
           section: "Projects",handler: () => {
               window.location.href = "/projects/retail_dashboard/";
+            },},{id: "projects-predicting-sepsis-from-patient-vitals",
+          title: 'Predicting Sepsis from Patient Vitals',
+          description: "A clinical risk model on severely imbalanced patient data — why accuracy lies, and how class-weighting plus the right metric surface the cases that matter",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sepsis_prediction/";
             },},{
         id: 'social-cv',
         title: 'CV',
