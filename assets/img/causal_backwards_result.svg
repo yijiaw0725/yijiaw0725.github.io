@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="200" viewBox="0 0 760 200" font-family="Georgia, serif">
+<rect width="760" height="200" fill="white"/>
+<defs><marker id="ag" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#1a7a3c"/></marker><marker id="ar" markerWidth="10" markerHeight="10" refX="7" refY="3" orient="auto"><path d="M0,0 L7,3 L0,6 Z" fill="#c0392b"/></marker></defs>
+<text x="40" y="58" font-size="13" fill="#777">What you would expect</text>
+<text x="40" y="86" font-size="19" fill="#1a1a1a">more studying</text>
+<line x1="240" y1="80" x2="340" y2="80" stroke="#1a7a3c" stroke-width="3" marker-end="url(#ag)"/>
+<text x="355" y="86" font-size="19" font-weight="bold" fill="#1a7a3c">higher GPA &#8593;</text>
+<line x1="40" y1="110" x2="720" y2="110" stroke="#eee" stroke-width="1"/>
+<text x="40" y="146" font-size="13" fill="#777">What a plain regression says</text>
+<text x="40" y="174" font-size="19" fill="#1a1a1a">more studying</text>
+<line x1="240" y1="168" x2="340" y2="168" stroke="#c0392b" stroke-width="3" marker-end="url(#ar)"/>
+<text x="355" y="174" font-size="19" font-weight="bold" fill="#c0392b">lower GPA &#8595;</text>
+<text x="560" y="174" font-size="22">&#9888;</text>
+</svg>
