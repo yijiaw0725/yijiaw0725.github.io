@@ -46,6 +46,11 @@ ninja.data = [{
           description: "A reproducibility audit of a peer-reviewed benzene-estimation study — rebuilding its results from the data and methods alone to see what holds up",
           section: "Projects",handler: () => {
               window.location.href = "/projects/air_quality_reproducibility/";
+            },},{id: "projects-does-studying-more-raise-gpa-a-causal-inference-workflow",
+          title: 'Does Studying More Raise GPA? A Causal-Inference Workflow',
+          description: "A plain regression says studying lowers GPA. Here&#39;s why that&#39;s wrong, and how matching gets closer to the real answer.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/causal_study_gpa/";
             },},{id: "projects-e-commerce-customer-segmentation-sql",
           title: 'E-commerce Customer Segmentation (SQL)',
           description: "RFM segmentation of 93K customers across 99K real orders — Python ETL into SQLite, SQL window-function scoring, and a clear answer to where the revenue sits",
